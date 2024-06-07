@@ -34,3 +34,5 @@
 1. List some of your own interests, values, beliefs, resources, prior learning and experiences.
 1. Describe how CSE1210 may connect to your future occupational choices.
     * CSE1210 introducesstudents to internet computing through the use of markup languages. Knowing how to use markup languages open many career paths in web development.
+
+[return](https://gabriel-friggstad.github.io/)
